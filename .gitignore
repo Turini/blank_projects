@@ -1,0 +1,9 @@
+*/target
+*/bin
+.DS_Store
+*/.idea
+*.jar
+*.class
+*/.idea*
+*/*.iml
+*/src/main/webapp
